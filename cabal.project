@@ -52,6 +52,6 @@ source-repository-package
 source-repository-package
   type: git
   location: https://github.com/maciej-bendkowski/cardano-simple
-  tag: 7cddd3c6c8812e2d75e8008be18b0e7a3d1d0331
+  tag: b93dd6b0135d4cf1ab17673097d33eff51285249
   subdir:
     .
